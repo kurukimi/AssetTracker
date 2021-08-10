@@ -1,0 +1,6 @@
+Kirjauspäivä;Arvopäivä;Määrä  EUROA;"Laji";Selitys;Saaja/Maksaja;Saajan tilinumero ja pankin BIC;Viite;Viesti;Arkistointitunnus;
+01.02.2021;01.02.2021;-306,17;"106";TILISIIRTO;"Kauppa";FIXX YY HH;"";Viesti: testi   ;20210101
+01.02.2021;01.02.2021;-19,66;"162";PKORTTIMAKSU;"kirjakauppa";;"";Viesti:     OSTOPVM  210129 MF xyz VARMENTAJA 40 ;20210201
+01.02.2021;01.02.2021;-12,87;"162";PKORTTIMAKSU;"ruokakauppa";;"";Viesti:     OSTOPVM  210129 MF NRO xyz VARMENTAJA 4 ;20210201
+01.02.2021;01.02.2021;19,78;"162";PKORTTIMAKSU;"tulo";;"";Viesti:    OSTOPVM  210129 MF NRO xyz VARMENTAJA 40 ;20210201
+01.02.2021;01.02.2021;-4,99;"162";PKORTTIMAKSU;"Spotify";;"";Viesti:     OSTOPVM  210130 MF NRO xyz VARMENTAJA 05 ;20210201
